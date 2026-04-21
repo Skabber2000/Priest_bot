@@ -1,6 +1,7 @@
 name = "priest-worker"
 main = "src/index.ts"
 compatibility_date = "2025-01-15"
+workers_dev = true
 
 # Comma-separated list of origins allowed to call /chat.
 # Override in production with your GitHub Pages URL.
