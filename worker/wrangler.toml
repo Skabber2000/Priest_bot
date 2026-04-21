@@ -6,7 +6,7 @@ workers_dev = true
 # Comma-separated list of origins allowed to call /chat.
 # Override in production with your GitHub Pages URL.
 [vars]
-ALLOWED_ORIGINS = "http://localhost:5173,http://127.0.0.1:5173"
+ALLOWED_ORIGINS = "http://localhost:5173,http://127.0.0.1:5173,https://skabber2000.github.io"
 MODEL = "claude-sonnet-4-6"
 MAX_OUTPUT_TOKENS = "1024"
 MAX_INPUT_CHARS = "2000"
